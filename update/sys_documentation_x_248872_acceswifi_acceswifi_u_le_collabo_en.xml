@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_le_collabo" label="le collaborateur" language="en" table="x_248872_acceswifi_acceswifi">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_le_collabo</element>
+            <help/>
+            <hint/>
+            <label>le collaborateur</label>
+            <language>en</language>
+            <name>x_248872_acceswifi_acceswifi</name>
+            <plural>le collaborateurs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-28 17:44:34</sys_created_on>
+            <sys_id>bc9747cadb231300cf3e2bfa4b961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>le collaborateur</sys_name>
+            <sys_package display_value="AccesWifi" source="x_248872_acceswifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AccesWifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_scope>
+            <sys_update_name>sys_documentation_x_248872_acceswifi_acceswifi_u_le_collabo_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-28 17:44:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

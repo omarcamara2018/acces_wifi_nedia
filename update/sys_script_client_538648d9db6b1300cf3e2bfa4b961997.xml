@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>email</field>
+        <global>true</global>
+        <messages/>
+        <name>valider adresse mail</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+     if (isLoading || newValue == '') {
+           return;
+
+     }
+
+  var err_field = control.id;
+  var err_message = 'Adresse mail invalide',
+	  
+  regex = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/ ;
+	  
+	  ///[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}/ig;
+
+              var err_flag = 'false';
+               err_flag = regex.test(g_form.getValue(err_field));
+               g_form.hideErrorBox(err_field);
+
+               if (!err_flag) {
+
+                      g_form.setValue("email", null);
+
+                       g_form.showFieldMsg(err_field, err_message, 'error');
+                
+               }
+
+               else { g_form.hideErrorBox(err_field); }
+
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-25 19:56:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>538648d9db6b1300cf3e2bfa4b961997</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>valider adresse mail</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AccesWifi" source="x_248872_acceswifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AccesWifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_scope>
+        <sys_update_name>sys_script_client_538648d9db6b1300cf3e2bfa4b961997</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-26 08:09:27</sys_updated_on>
+        <table>x_248872_acceswifi_acceswifi</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

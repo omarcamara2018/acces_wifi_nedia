@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="prenom" label="Prenom" language="en" table="x_248872_acceswifi_acceswifi">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>prenom</element>
+            <help/>
+            <hint/>
+            <label>Prenom</label>
+            <language>en</language>
+            <name>x_248872_acceswifi_acceswifi</name>
+            <plural>Prenoms</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 08:53:50</sys_created_on>
+            <sys_id>dd513509db271300cf3e2bfa4b961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Prenom</sys_name>
+            <sys_package display_value="AccesWifi" source="x_248872_acceswifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AccesWifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_scope>
+            <sys_update_name>sys_documentation_x_248872_acceswifi_acceswifi_prenom_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 08:53:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

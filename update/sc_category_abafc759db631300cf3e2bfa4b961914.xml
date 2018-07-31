@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-26 10:25:06</sys_created_on>
+        <sys_id>abafc759db631300cf3e2bfa4b961914</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Acces wifi</sys_name>
+        <sys_package display_value="AccesWifi" source="x_248872_acceswifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AccesWifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_scope>
+        <sys_update_name>sc_category_abafc759db631300cf3e2bfa4b961914</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-26 10:25:06</sys_updated_on>
+        <title>Acces wifi</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=abafc759db631300cf3e2bfa4b961914"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icon</file_name>
+        <image_height>225</image_height>
+        <image_width>225</image_width>
+        <size_bytes>2345</size_bytes>
+        <size_compressed>2368</size_compressed>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-26 10:26:24</sys_created_on>
+        <sys_id>4b10d759db631300cf3e2bfa4b9619c9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-26 10:26:24</sys_updated_on>
+        <table_name>ZZ_YYsc_category</table_name>
+        <table_sys_id>abafc759db631300cf3e2bfa4b961914</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="4b10d759db631300cf3e2bfa4b9619c9">4b10d759db631300cf3e2bfa4b9619c9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-26 10:26:24</sys_created_on>
+        <sys_id>4310d759db631300cf3e2bfa4b9619ca</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3144</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="4b10d759db631300cf3e2bfa4b9619c9">4b10d759db631300cf3e2bfa4b9619c9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-26 10:26:24</sys_created_on>
+        <sys_id>c310d759db631300cf3e2bfa4b9619ca</sys_id>
+    </sys_attachment_doc>
+</record_update>

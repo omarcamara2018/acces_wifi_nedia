@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_248872_acceswifi_acceswifi" version="2" view="mes_demandes">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>statut</element>
+            <list_id display_value="x_248872_acceswifi_acceswifi" element="NULL" name="x_248872_acceswifi_acceswifi" parent="NULL" relationship="NULL" sys_domain="global" view="6c504ecddb271300cf3e2bfa4b9619d8">e1492a09dba71300cf3e2bfa4b9619fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 10:00:35</sys_created_on>
+            <sys_id>5b908641db671300cf3e2bfa4b961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 10:00:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date</element>
+            <list_id display_value="x_248872_acceswifi_acceswifi" element="NULL" name="x_248872_acceswifi_acceswifi" parent="NULL" relationship="NULL" sys_domain="global" view="6c504ecddb271300cf3e2bfa4b9619d8">e1492a09dba71300cf3e2bfa4b9619fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 10:00:35</sys_created_on>
+            <sys_id>db908641db671300cf3e2bfa4b961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 10:00:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>beneficiaire</element>
+            <list_id display_value="x_248872_acceswifi_acceswifi" element="NULL" name="x_248872_acceswifi_acceswifi" parent="NULL" relationship="NULL" sys_domain="global" view="6c504ecddb271300cf3e2bfa4b9619d8">e1492a09dba71300cf3e2bfa4b9619fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 10:00:35</sys_created_on>
+            <sys_id>5f908641db671300cf3e2bfa4b961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 10:00:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>societe</element>
+            <list_id display_value="x_248872_acceswifi_acceswifi" element="NULL" name="x_248872_acceswifi_acceswifi" parent="NULL" relationship="NULL" sys_domain="global" view="6c504ecddb271300cf3e2bfa4b9619d8">e1492a09dba71300cf3e2bfa4b9619fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 10:00:35</sys_created_on>
+            <sys_id>df908641db671300cf3e2bfa4b961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 10:00:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>code_wifi</element>
+            <list_id display_value="x_248872_acceswifi_acceswifi" element="NULL" name="x_248872_acceswifi_acceswifi" parent="NULL" relationship="NULL" sys_domain="global" view="6c504ecddb271300cf3e2bfa4b9619d8">e1492a09dba71300cf3e2bfa4b9619fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 10:00:35</sys_created_on>
+            <sys_id>53908641db671300cf3e2bfa4b96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 10:00:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>duree_de_validite</element>
+            <list_id display_value="x_248872_acceswifi_acceswifi" element="NULL" name="x_248872_acceswifi_acceswifi" parent="NULL" relationship="NULL" sys_domain="global" view="6c504ecddb271300cf3e2bfa4b9619d8">e1492a09dba71300cf3e2bfa4b9619fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 10:00:35</sys_created_on>
+            <sys_id>d3908641db671300cf3e2bfa4b96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 10:00:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_248872_acceswifi_acceswifi</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 13:02:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1492a09dba71300cf3e2bfa4b9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_248872_acceswifi_acceswifi</sys_name>
+            <sys_package display_value="AccesWifi" source="x_248872_acceswifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AccesWifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_scope>
+            <sys_update_name>sys_ui_list_x_248872_acceswifi_acceswifi_mes_demandes</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 13:02:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Mes demandes" name="mes_demandes">6c504ecddb271300cf3e2bfa4b9619d8</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="approver_user" name="approver_user">debab85bff02110053ccffffffffffb6</contains>
+        <role display_value="x_248872_acceswifi.fullfiler" name="x_248872_acceswifi.fullfiler">488f671ddba31300cf3e2bfa4b961929</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-26 15:27:31</sys_created_on>
+        <sys_id>b1059861db271300cf3e2bfa4b961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>approver_user.x_248872_acceswifi.fullfiler</sys_name>
+        <sys_package display_value="AccesWifi" source="x_248872_acceswifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AccesWifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_scope>
+        <sys_update_name>sys_user_role_contains_b1059861db271300cf3e2bfa4b961939</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-26 15:27:31</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

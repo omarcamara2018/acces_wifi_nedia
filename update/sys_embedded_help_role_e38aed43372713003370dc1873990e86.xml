@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_248873_just_for.user" name="x_248873_just_for.user">a38aed43372713003370dc1873990e84</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-31 13:32:04</sys_created_on>
+        <sys_id>e38aed43372713003370dc1873990e86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a38aed43372713003370dc1873990e84</sys_name>
+        <sys_package display_value="AccesWifi" source="x_248872_acceswifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AccesWifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e38aed43372713003370dc1873990e86</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-31 13:32:04</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

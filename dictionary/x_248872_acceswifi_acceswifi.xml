@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Acceswifi" max_length="40" name="x_248872_acceswifi_acceswifi" type="collection">
+        <element label="Beneficiaire" max_length="100" name="beneficiaire" type="string"/>
+        <element label="Code wifi" max_length="100" name="code_wifi" type="string"/>
+        <element label="Collaborateur" mandatory="true" max_length="100" name="collaborateur" type="string"/>
+        <element label="Date" mandatory="true" max_length="100" name="date" type="glide_date"/>
+        <element label="Demandeur" max_length="100" name="demandeur" type="string"/>
+        <element choice="1" label="Duree de validite" mandatory="true" max_length="100" name="duree_de_validite" type="choice">
+            <choice>
+                <element label="1 Jour" sequence="0" value="1 jour"/>
+                <element label="2 Jours" sequence="1" value="2 jours"/>
+                <element label="1 Semaine" sequence="2" value="1 semaine"/>
+            </choice>
+        </element>
+        <element label="Email" mandatory="true" max_length="100" name="email" type="string"/>
+        <element label="Nom" mandatory="true" max_length="100" name="nom" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Prenom" mandatory="true" max_length="100" name="prenom" type="string"/>
+        <element label="Societe" mandatory="true" max_length="100" name="societe" type="string"/>
+        <element choice="3" default="1" label="Etat" max_length="100" name="statut" read_only="true" type="choice">
+            <choice>
+                <element label="En cours d'approbation" sequence="0" value="1"/>
+                <element label="Approuvée" sequence="1" value="2"/>
+                <element label="Rejetée" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element choice="3" default="invité" label="Type de beneficiaire" mandatory="true" max_length="100" name="type_de_beneficiaire" type="choice">
+            <choice>
+                <element label="Invité" sequence="0" value="invité"/>
+                <element label="le collaborateur" sequence="1" value="le collaborateur"/>
+            </choice>
+        </element>
+        <element label="le collaborateur" max_length="32" name="u_le_collabo" reference="sys_user" type="reference"/>
+        <element label="le demandeur" max_length="32" name="u_le_demandeurr" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="u_le_demandeurr"/>
+        </index>
+        <index name="index2">
+            <element name="u_le_collabo"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="c9b40899db6b1300cf3e2bfa4b96195a" sys_domain="global" table="x_248872_acceswifi_acceswifi" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 19:37:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41b40899db6b1300cf3e2bfa4b96195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_248872_acceswifi_acceswifi" name="x_248872_acceswifi_acceswifi" sys_domain="global" view="Default view">c9b40899db6b1300cf3e2bfa4b96195a</sys_ui_form>
+            <sys_ui_section caption="Demande de code wifi" display_value="Demande de code wifi" name="x_248872_acceswifi_acceswifi" sys_domain="global" view="Default view">09b40899db6b1300cf3e2bfa4b961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 19:37:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_248872_acceswifi_acceswifi</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 19:37:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9b40899db6b1300cf3e2bfa4b96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_248872_acceswifi_acceswifi</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AccesWifi" source="x_248872_acceswifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AccesWifi">133b5d0ddb631300cf3e2bfa4b9619ba</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c9b40899db6b1300cf3e2bfa4b96195a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 19:37:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
